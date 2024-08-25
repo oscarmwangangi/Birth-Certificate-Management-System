@@ -18,7 +18,7 @@ if (!isset($_SESSION['role'])) {
     
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap-grid.min.css">
      <link rel="stylesheet" href="./style.css">
-    <title>DEATH CERTIFICATE OF KENYA</title>
+    <title>BIRTH CERTIFICATE OF KENYA</title>
 
     <style>
         body {
